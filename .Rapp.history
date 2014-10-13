@@ -1,0 +1,14 @@
+regression
+q()
+cacca merda pupù
+clc
+clear
+getwd()
+my funtion <-function(x) {#
+	y=rnorm(100)#
+	mean(y)#
+}
+my funtion <-function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
